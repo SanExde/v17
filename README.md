@@ -7,26 +7,26 @@
 <a href="#"><img title="RAMDANI BOTZ VERSI 17.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 17.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/RamdaniOfficial/v17"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Danzzxcodes"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Danzzxcodes/v17"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramdaniofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramdani Official?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v17/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/v17?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v17/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/v17?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/v17?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v17"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Ramdaniofficial/v17/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/v17?style=flat-square&color=green"></a>
+<a href="https://github.com/Danzzxcodes/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramdani Official?color=red&style=flat-square"></a>
+<a href="https://github.com/Danzzxcodes/v17/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/v17?color=blue&style=flat-square"></a>
+<a href="https://github.com/Danzzxcodes/v17/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/v17?color=red&style=flat-square"></a>
+<a href="https://github.com/Danzzxcodes/v17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/v17?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Danzzxcodes/v17"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Danzzxcodes/v17/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/v17?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2Fv17&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Ramdaniofficial/v17/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Danzzxcodes/v17/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramdaniofficial/v17#requirements">Requirements</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#instalasi">Installation</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#thanks-to">Thanks to</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#donate">Donate</a>
+  <a href="https://github.com/Danzzxcodes/v17#requirements">Requirements</a> •
+  <a href="https://github.com/Danzzxcodes/v17#instalasi">Installation</a> •
+  <a href="https://github.com/Danzzxcodes/v17#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Danzzxcodes/v17#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Danzzxcodes/v17#donate">Donate</a>
 </p>
 </div>
 
@@ -62,6 +62,7 @@
 > pkg install imagemagick
 > pkg install libwebp
 > pkg install yarn
+> git clone https://github.com/Danzzxcodes/v17
 > cd /sdcard/v17
 > yarn
 > npm start
@@ -70,10 +71,10 @@
 ## Heroku buildpack
 
 ```FFMPEG :```
-https://github.com/Ramdaniofficial/heroku-buildpack-ffmpeg-latest
+https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest
 
 ```WEBP :```
-https://github.com/Ramdaniofficial/heroku-buildpack-webp-binaries.git
+https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 
 ---------
 
@@ -87,10 +88,10 @@ https://github.com/Ramdaniofficial/heroku-buildpack-webp-binaries.git
 
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/Ramdaniofficial/av17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/Ramdaniofficial/v17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L3)
-- You can edit list and display menu or donate on [this section](https://github.com/Ramdaniofficial/v17/blob/main/help/ind.js)
-- You can add fiture on [this section](https://github.com/Ramdaniofficial/v17/tree/main/message)
+- Change ownerNumber on [this section](https://github.com/Danzzxcodes/av17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L2)
+- Change botName on [this section](https://github.com/Danzzxcodes/v17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L3)
+- You can edit list and display menu or donate on [this section](https://github.com/Danzzxcodes/v17/blob/main/help/ind.js)
+- You can add fiture on [this section](https://github.com/Danzzxcodes/v17/tree/main/message)
 
 
 ## Installing the FFmpeg for Windows
@@ -109,8 +110,8 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/Ramdaniofficial)
-- [Linktree](https://linktr.ee/Ramdaniofficial)
+- [Saweria](https://saweria.co/Danzzxcodes)
+- [Linktree](https://linktr.ee/Danzzxcodes)
 - [Dana](089512545999)
 - [Ovo](089512545999)
 - [Gopay](089512545999)
